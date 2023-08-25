@@ -1,2 +1,3 @@
-# disposable-uni-web-prog-lang
+# disposable-uni
  
+Repo descartável para as aulas de prog avancada e prog para web
